@@ -10,6 +10,7 @@ SwiftUI custom top menu bar for navigation.
 Import MenuBar to your project: `import MenuBar`
 
 You can show up to 4 items.
+
 MenuBar example with 4 items:
 ```swift
  GeometryReader { geometry in
