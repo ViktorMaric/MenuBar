@@ -2,11 +2,11 @@
 
 SwiftUI custom top menu bar for navigation.
 
-![MenuBar](./Resources/portrait.gif "Portrait")
+![MenuBar](./Resources/portrait.gif "Portrait" | height=400)
 
 ![MenuBar](./Resources/landscape.gif "Landscape")
 
-### Usage
+### Usage:
 Import MenuBar to your project: `import MenuBar`
 
 You can show up to 4 items.
@@ -24,7 +24,7 @@ MenuBar example with 2 items:
  }
 ```
 
-### Installing
+### Installation:
 Requirements: iOS 13 or later, Xcode 11 or later.
 
 Simplest way to install is to use Swift Package Manager.
