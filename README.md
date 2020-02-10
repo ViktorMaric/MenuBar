@@ -2,9 +2,9 @@
 
 SwiftUI custom top menu bar for navigation.
 
-![](portrait.gif)
+![MenuBar](./Resources/portrait.gif "Portrait")
 
-![](landcape.gif)
+![MenuBar](./Resources/landscape.gif "Landscape")
 
 ### Usage
 Import MenuBar to your project: `import MenuBar`
