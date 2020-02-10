@@ -2,7 +2,7 @@
 
 SwiftUI custom top menu bar for navigation.
 
-![MenuBar](./Resources/portrait.gif "Portrait" | height=400)
+![MenuBar](./Resources/portrait.gif "Portrait")
 
 ![MenuBar](./Resources/landscape.gif "Landscape")
 
